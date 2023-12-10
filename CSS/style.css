@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #222
+}
+
+.head {
+  font-family: Pattaya;
+}
+
+@font-face {
+  font-family: Pattaya ;
+  src: url(../Fonts/Pattaya/Pattaya-Regular.ttf);
+}
+
